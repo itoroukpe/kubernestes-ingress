@@ -21,7 +21,7 @@ In the case of NGINX, the Ingress controller is deployed in a pod along with the
 ## 1. Clone Kubernetes Nginx Ingress Manifests into server where you have kubectl
 
 ```
-$ git clone https://github.com/LandmakTechnology/kubernestes-ingress.git
+$ git clone https://github.com/itoroukpe/kubernestes-ingress
 
 $ cd kubernestes-ingress/deployments
 ```
